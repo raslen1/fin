@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Shopping Cart</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <link
+
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+
+      integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./css/styles.css">
+  </head>
+  <body>
+    
+    <div class="shopping-cart">
+      <!-- Title -->
+      <div class="title">
+        Shopping Bag Total:<span class="total-price">0</span>tnd
+      </div>
+      <!-- Product #1 -->
+      <div class="item">
+        <div>
+          <i class="fas fa-heart like"></i>
+          <i class="fas fa-trash remove"></i>
+        </div>
+        <div class="image">
+          <img src="./res/images/item1.jpeg" alt="product" />
+        </div>
+        <div class="description">
+          <span>ps4</span>
+          <span>plus 2 mannets</span>
+          <span>white</span>
+        </div>
+        <div>
+          <button class="decrement">-</button>
+          <span class="quantity">1</span>
+          <button class="increment">+</button>
+        </div>
+        <div><p><span class="unit-price">2350</span> tnd</p></div>
+      </div>
+
+      <!-- Product #2 -->
+      <div class="item">
+        <div>
+          <i class="fas fa-heart like"></i>
+          <i class="fas fa-trash remove"></i>
+        </div>
+        <div class="image">
+          <img src="./res/images/item2.jpg" alt="product" />
+        </div>
+        <div class="description">
+          <span>pc gamer</span>
+          <span>i9-9900k rtx 3090 super 128gb ram 512 ssd 6 HDD</span>
+          <span>rgb</span>
+        </div>
+        <div>
+          <button class="decrement">-</button>
+          <span class="quantity">1</span>
+          <button class="increment">+</button>
+        </div>
+        <div><p><span class="unit-price">2245</span> tnd</p></div>
+      </div>
+
+      <!-- Product #3 -->
+      <div class="item">
+        <div>
+          <i class="fas fa-heart like"></i>
+          <i class="fas fa-trash remove"></i>
+        </div>
+        <div class="image">
+          <img src="./res/images/item3.jpg" alt="product" />
+        </div>
+        <div class="description">
+          <span>pc gamer v2</span>
+          <span>rayzen 5 3600x rtx 3090super 128gb ram 512 ssd 6 HDD</span>
+          <span>Red</span>
+        </div>
+        <div>
+          <button class="decrement">-</button>
+          <span class="quantity">1</span>
+          <button class="increment">+</button>
+        </div>
+        <div><p><span class="unit-price">2480</span> tnd</p></div>
+      </div>
+    </div>
+    <script src="./js/index.js"></script>
+  </body>
+</html>

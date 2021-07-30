@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>index</title>
+    <link rel="stylesheet" href="a.css">
+    <link rel="icon" href="image/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div class="wrapper" style="height: 108px; margin-top: 25px; width: 1044px;">
+      <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="laptops.html"> <i class="fa fa-laptop">LAPTOPS</i></a> </li>
+        <li><i class="fa fa-desktop">PC GAMER</i>
+          <ul>
+            <li><a href="intel.html">INTEL</a></li>
+            <li><a href="amd.html">AMD</a> </li>
+          </ul>
+        </li>
+        <li><a><i class="fa fa-gamepad">consoles</i> </a>
+          <ul>
+            <li> <a href="xbox.html"> xbox</a> </li>
+            <li><a href="ps.html"> Play station </a></li>
+          </ul>
+        </li>
+        <a href="https://www.instagram.com/raslen_sebii/"><li><i class="fa fa-phone">CONTACT US</i></li></a>
+        <li><a href="inscrit.html">sign up</a></li>
+      </ul>
+      <p style="margin-left: -443px; height: 36px; width: 1746px;"><img src="image/Sans-titre-1.png"
+          alt="" style="margin-top: -3px; height: 232px; width: 906px; margin-left: -842px;">
+      </p>
+      <p style="margin-left: -443px; height: 36px; width: 1746px;"><br>
+      </p>
+      <div class="topnav"> <a class="active"> <input placeholder="Search.." type="text"></a>
+      </div>
+      <img src="image/home2.png" style="width: 1028px; height: 722px;"><br>
+      <br>
+      &nbsp;
+      <div class="h3"><span style="color: white;"> </span>
+        <h3 style="background-color: #15b8e6;"><span style="color: white;"> N°1
+            du #Gaming en Tunisie,<br>
+            PCs Gamers &amp; Stations<br>
+            Pro, accessoires et composants,<br>
+            les prix les moins chers <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span><b><span style="color: white;">TÉLÉPHONE: (+216) 23 987&nbsp;
+              170</span> <br>
+          </b></h3>
+      </div>
+    </div>
+  </body>
+</html>
